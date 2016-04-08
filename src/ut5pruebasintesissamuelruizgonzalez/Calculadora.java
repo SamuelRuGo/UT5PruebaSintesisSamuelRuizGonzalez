@@ -10,5 +10,8 @@ package ut5pruebasintesissamuelruizgonzalez;
  * @author samue
  */
 public class Calculadora {
+    private int operador1;
+    private int operador2;
+    private String operacion;
     
 }
